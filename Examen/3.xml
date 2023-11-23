@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<info>
+    <id>3</id>
+    <nombre>Judias</nombre>
+    <stock>2000.0</stock>
+    <ventas idProducto="3">
+        <cantVendida>600.0</cantVendida>
+        <impRecaudado>5000.0</impRecaudado>
+    </ventas>
+    <recaudado>5000.0</recaudado>
+</info>
